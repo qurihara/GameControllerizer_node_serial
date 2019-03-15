@@ -1,0 +1,23 @@
+{
+  "name": "gamecontrollerizer_node_serial",
+  "version": "1.0.0",
+  "description": "using GameControllerizer board via USB serial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qurihara/GameControllerizer_node_serial.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qurihara/GameControllerizer_node_serial/issues"
+  },
+  "homepage": "https://github.com/qurihara/GameControllerizer_node_serial#readme",
+  "dependencies": {
+    "node-red-contrib-game_controllerizer": "^0.3.6",
+    "serialport": "^7.1.4"
+  }
+}
